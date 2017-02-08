@@ -1,6 +1,6 @@
 var fs = require ('fs');
 
-var jsonreador = require ("./json-file-reader.js"); // dit heb ik eraan toegevoed. Dit hoort dus de andere file te lezen.
+var jsonreador = require ("./json-file-reader2.js"); // dit heb ik eraan toegevoed. Dit hoort dus de andere file te lezen.
 
 var countryName = process.argv[2];    // this is bullet 1 from part 1   // this is the terminal
 
